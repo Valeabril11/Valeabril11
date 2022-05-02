@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Valeabril11
-- 👀 I’m interested in la inteligencia artificial
-- 🌱 I’m currently  aprendiendo JS y Python
-- 💞️ I’m looking to  nuevos proyectos
+- 👀 I’m interested in Machine Learning 
+- 🌱 
+i am currently learning js and python
+- 💞️ I’m looking to  new proyect´s
 - 📫 How to reach me ...
 - valeria.molina@live.com
 
